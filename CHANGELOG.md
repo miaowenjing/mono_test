@@ -1,8 +1,9 @@
-## 1.7.17 (2024-09-10)
+## 1.7.18 (2024-09-10)
 
 
 ### Features
 
+* **dd111d:** add1112 ([3c214c8](https://github.com/miaowenjing/mono_test/commit/3c214c8afdf15dd6b5e6aeb16296ef3fbe65fec0))
 * **ddd:** add1112 ([21bd190](https://github.com/miaowenjing/mono_test/commit/21bd190fc10166c2cac22ce0209cf50200c7d773))
 * **houhouhou:** add user哈哈哈哈哈哈哈哈哈 ([d1d4361](https://github.com/miaowenjing/mono_test/commit/d1d43619edf4a8bc8f379ae3adfdf3d6a9d38a5b))
 * **scope:** add user ([37a04c6](https://github.com/miaowenjing/mono_test/commit/37a04c6ed1f6879a3cba9622f77f0ea105b5aa69))
