@@ -23,7 +23,8 @@
   },
   "lint-staged": {
     "src/*_/_.{js,vue}": [
-      "npm run log",
+      "npm run log
+      ",
       "git add"
     ]
   }
