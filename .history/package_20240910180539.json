@@ -21,9 +21,6 @@
     "lint-staged": "^15.2.10"
   },
   "lint-staged": {
-    "src/*_/_.{js,vue}": [
-      "echo 11",
-      "git add"
-    ]
+    "src/*_/_.{js,vue}": ["echo 11", "git add"]
   }
 }
