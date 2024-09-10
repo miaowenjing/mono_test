@@ -1,0 +1,12 @@
+{
+  "name": "nutui-uniapp111",
+  "version": "1.7.16",
+  "private": "true",
+  "dependencies": {
+    "conventional-changelog-cli": "^5.0.0"
+  },
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s ",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+  }
+}
